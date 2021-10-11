@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/nadine-krista/ordersummary)
-- Live Site URL: [](https://nadine-krista.github.io/ordersummary/)
+- Solution URL: [Click Here](https://github.com/nadine-krista/ordersummary)
+- Live Site URL: [Click Here](https://nadine-krista.github.io/ordersummary/)
 
 ## My process
 

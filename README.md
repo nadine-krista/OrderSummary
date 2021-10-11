@@ -25,11 +25,9 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-![](src\assets\screenshots\Order-Summary_Desktop.png)
-![](src\assets\screenshots\Order-Summary-Mobile.png)
 
-
-
+![Final Screen- Desktop Model](./src/assets/screenshots/Order-Summary_Desktop.png)
+![Final Screen- Mobile Model](./src/assets/screenshots/Order-Summary-Mobile.png)
 
 ### Links
 

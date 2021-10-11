@@ -25,8 +25,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-![](.\order-summary\src\assets\screenshots\Order-Summary_Desktop.png)
-![](.\order-summary\src\assets\screenshots\Order-Summary-Mobile.png)
+![](order-summary\src\assets\screenshots\Order-Summary_Desktop.png)
+![](order-summary\src\assets\screenshots\Order-Summary-Mobile.png)
 
 
 

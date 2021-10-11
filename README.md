@@ -25,16 +25,16 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![](.\order-summary\src\assets\screenshots\Order-Summary_Desktop.png)
+![](.\order-summary\src\assets\screenshots\Order-Summary-Mobile.png)
 
-[order-summary\src\assets\screenshots\Order-Summary_Desktop.png]
-[order-summary\src\assets\screenshots\Order-Summary-Mobile.png]
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/nadine-krista/ordersummary)
+- Live Site URL: [Add live site URL here](https://nadine-krista.github.io/ordersummary/)
 
 ## My process
 
